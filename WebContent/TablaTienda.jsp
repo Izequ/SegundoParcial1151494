@@ -28,7 +28,7 @@
 				</div>
 
 				<div class="col-xs-12 col-sm-6 col-md-3 align-self-center">
-					<a href="${pageContext.request.contextPath}/registro.jsp"
+					<a href="${pageContext.request.contextPath}/Registro.jsp"
 						class="btn btn-lg btn-primary btn-block text-uppercase font-weight-bold mb-2 text-light"
 						type="submit">Registrate</a>
 				</div>
